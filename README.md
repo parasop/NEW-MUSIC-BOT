@@ -24,6 +24,10 @@ you can run this bot on repl,glitch and heroku, vps user can join support server
 
 247 VC <br> 1O+ FILTERS <br> LAG FREE MUSIC QUALITY
 
+## SETUP
+put token in .env and fill config.json
+npm install
+npm start
 
 # LICENCE
 
