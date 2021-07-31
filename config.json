@@ -1,0 +1,34 @@
+{
+  "default_prefix" : "+",
+ "owner" :  ["YOUR ID"],
+ "DB": "mongodb+srv://ESPORTS:OO11C6gUCF8b3Ikl@esportss.nl393.mongodb.net/paras?retryWrites=true&w=majority",
+"log":  "LOG CHANNEL ID", 
+"spotifyID" : "3c772cb0fa1642159603a1c897ddbfaf",
+"spotifySecret": "f1c4d9fce1d44fc4bf93145b8b3b2ed5",
+"nodes":[
+    
+    
+    {
+     "host": "main.paras888.repl.co", 
+     "port": 443, 
+      "password": "youshallnotpass", 
+      "secure": true
+    
+      
+      
+    },
+      {
+     "host": "lavalink-repl.parasop.repl.co",
+      "port": 443, 
+      "password": "youshallnotpass", 
+      "secure": true
+    },
+      {
+     "host": "lava.link",
+      "port": 80, 
+      "password": "youshallnotpass"
+        }
+    
+    ]
+  
+}
