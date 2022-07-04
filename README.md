@@ -1,34 +1,35 @@
-## Latest Updates
+# [Poru Music](https://discord.com/api/oauth2/authorize?client_id=987704017410985985&permissions=8&scope=applications.commands%20bot)
 
-> We are  waiting for Discord.js to update to v13 (as a stable version) so we can start updating the bot again. We can't fix all of them right now.
-
-##  Tutorial
-
-A Tutorial has been uploaded on YouTube  Watch it by clicking [here](https://www.youtube.com/channel/UC2Xcy7DXRL3RwgquBun6QGg)
+A Music Bot Template Based on [Poru](https://npmjs.com/poru) lavalink client ❤️
 
 
-## [Support Server](https://discord.gg/SY7DjDpwpk)
+## Features
+- Poru wrapper based music client
+- Rich audio quality music
+- Inbuilt audio filters
+- 100% Compatible with Lavalink
+- Easy to use and setup
+- 24/7 Support Team
 
-Do you have any issues with the bot? Head to our [Discord Server](https://discord.gg/SY7DjDpwpk) where we can help you faster than creating a GitHub issue
+## DONATION
+[Donating here](https://ko-fi.com/parasdev)
 
+## Configration
 
+- enter your bot token in .env file with `TOKEN` variable
+```js
+{
+  "prefix": '.',
+  "owner":["YOUR DISCORD ID"],
+  "nodes": [{
+    "name":"NODE_1",
+    "host":"localhost", // your lavalink host
+    "port": 2333, // Your lavalink port
+    "password": "youshallnotpass" // Your lavalink pass
+  }]
+}
+```
+### Need help
+If you need help ! Feel free to join our [Support server](https://discord.gg/b3k6XNA5pw)
 
-
-## HOW TO RUN
-
-you can run this bot on repl,glitch and heroku, vps user can join support server
-
-
-
-## FEATURES
-
-247 VC <br> 1O+ FILTERS <br> LAG FREE MUSIC QUALITY
-
-## SETUP
-put token in .env and fill config.json
-npm install
-npm start
-
-# LICENCE
-
-YOU CANT RUN CODE WITHOUT JOINNING OUR SUPPORT SERVER ELSE WE WILL TAKE DOWN YOUR BOT
+- [ Note ] Support us by giving star to this reposity and by following [Paras](https://github.com/parasop) and by Donating [here](https://ko-fi.com/parasdev)
